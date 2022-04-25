@@ -128,7 +128,9 @@
 - Function That Returns The Amount Of Indetifiers.
 
 > **Authors**
-    > CHIKEZIE SUCCESS and SULAIMAN OYEDEJI
+
+    CHIKEZIE SUCCESS and SULAIMAN OYEDEJI
 
 **End**
+
 Success & Sulaiman @ ALX software engineering programme 2022.
